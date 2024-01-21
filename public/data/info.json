@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Party One",
+    "img": "./assets/party.jpeg",
+    "type": "Party",
+    "location": "1400 University Ave, Riverside",
+    "time": "01/21/2024 9:00 PM",
+    "max_attendees": "50"
+  },
+  {
+    "name": "Rave One",
+    "img": "./assets/rave.avif",
+    "type": "Rave",
+    "location": "1400 University Ave, Riverside",
+    "time": "01/21/2024 9:00 PM",
+    "max_attendees": "50"
+  },
+  {
+    "name": "Concert One",
+    "img": "./assets/concert.avif",
+    "type": "Concert",
+    "location": "1400 University Ave, Riverside",
+    "time": "01/21/2024 9:00 PM",
+    "max_attendees": "50"
+  },
+  {
+    "name": "Kickback One",
+    "img": "./assets/kickback.webp",
+    "type": "Kickback",
+    "location": "1400 University Ave, Riverside",
+    "time": "01/21/2024 9:00 PM",
+    "max_attendees": "50"
+  }
+]
