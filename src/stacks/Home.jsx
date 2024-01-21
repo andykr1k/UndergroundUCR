@@ -1,9 +1,10 @@
-import { HomePage } from "../pages";
+import { Feed, HomePage } from "../pages";
 
 export default function Home(){
     return (
-        <>
-            <HomePage/>
-        </>
-    )
+      <div className="snap-y snap-mandatory">
+        <HomePage />
+        <Feed />
+      </div>
+    );
 }
